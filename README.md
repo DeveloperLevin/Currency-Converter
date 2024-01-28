@@ -23,8 +23,7 @@ A Java GUI project for the course 21CSE306, implementing a currency converter us
    cd directory-name
 
 3. **Run the Program**
-   Run the CurrencnyConverter.java which directs to the myFrame.java file that holds the       
-   constructor for the JFrame
+   Run the CurrencnyConverter.java which directs to the myFrame.java file that holds the      constructor 
    ```bash
    javac file-name.java
 
